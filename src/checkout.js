@@ -1,6 +1,6 @@
 import Item from "./item";
 
-export default class Co {
+export default class Checkout {
     constructor(ruleset) {
         this.ruleset = ruleset;
         this.items = [];
