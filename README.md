@@ -15,6 +15,10 @@ npm run build
 npm test
 ```
 
+- An example can be found in `src/index.js`.
+- Valid items can be found in `src/item.js`
+- An example set ouf discount rules can be found in `src/ruleset.js`
+
 
 ## Thoughts
 
